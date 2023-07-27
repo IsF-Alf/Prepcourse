@@ -103,7 +103,7 @@ Deberás ejecutar estos comandos:
 git add .
 // Este comando te permitirá guardar tus cambios en Git.
 
-git commmit -m "tuMensaje"
+git commit -m "tuMensaje"
 // Este comando te permitirá darle un título a tus cambios.
 
 git push
@@ -113,3 +113,7 @@ git push
 Recuerda que todos estos comandos son necesarios. Si tienes alguna duda, ¡te invitamos a que repases estos comandos en el Prep Course!
 
 Encontrarás toda la explicación dentro de: "**`Módulo 2 | Creación de repositorio y primer commit`**".
+
+## En la linea 106 "Commit" tenia una "m" mas ##
+
+Hecho!
